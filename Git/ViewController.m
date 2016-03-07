@@ -20,6 +20,8 @@
     
     
     NSLog(@"0000000");
+    
+    NSLog(@"1111111");
 }
 
 - (void)didReceiveMemoryWarning {
